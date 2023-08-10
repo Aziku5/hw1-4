@@ -52,6 +52,11 @@ class SpaceHero(SuperHero):
     def fly_phrase(self):
         return "Fly in the True_phrase: Yes"
 
+
+
+
+
+
 # Создание экземпляров подклассов
 air_hero=AirHero(name='Aeris',nickname='Skyhawk',superpower='Wind Manipulation',
                  health_points=50,catchphrase='Soaring High',damage=80)
